@@ -1,5 +1,5 @@
 # dcharwood26.github.io
 
-this is auto-generated from the repo's README.md file
+this should now just be the repo description. shouldn't be the content of the served web page.
 
-cool :)
+let's see!?
