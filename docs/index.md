@@ -16,3 +16,6 @@ everthing below here, is inline HTML
 <p>html para 1</p>
 <hr>
 <p>html para 2</p>
+<br>
+<p>and an image....</p>
+<img src="header-blacktext.jpg"/>
