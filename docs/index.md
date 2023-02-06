@@ -6,9 +6,13 @@ this is version 2 - being served from the /docs sub-folder.....maybe
 
 cool :)
 
-<h1>heading 1</h1>
+this page has a Jekyll theme of MINIMA - specified in the _config.yml file
+
+everthing below here, is inline HTML
+<br>
+<h1>HTML heading 1</h1>
 <br>
 <hr>
-<p>para 1</p>
+<p>html para 1</p>
 <hr>
-<p>para 2</p>
+<p>html para 2</p>
